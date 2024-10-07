@@ -1,0 +1,68 @@
+// 20241007145657
+// https://api.escuelajs.co/api/v1/categories
+
+[
+    {
+      "id": 3,
+      "name": "Clothes1",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2024-10-06T19:48:35.000Z",
+      "updatedAt": "2024-10-07T06:29:20.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2024-10-06T19:48:35.000Z",
+      "updatedAt": "2024-10-06T19:48:35.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2024-10-06T19:48:35.000Z",
+      "updatedAt": "2024-10-06T19:48:35.000Z"
+    },
+    {
+      "id": 7,
+      "name": "abcdef",
+      "image": "https://th.bing.com/th/id/OIP.9Izv-aszItToTtEqRMSE0QHaE6?rs=1&pid=ImgDetMain",
+      "creationAt": "2024-10-06T20:31:04.000Z",
+      "updatedAt": "2024-10-07T00:18:18.000Z"
+    },
+    {
+      "id": 8,
+      "name": "paisaje",
+      "image": "https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_640.jpg",
+      "creationAt": "2024-10-06T21:04:00.000Z",
+      "updatedAt": "2024-10-07T04:50:48.000Z"
+    },
+    {
+      "id": 34,
+      "name": "ykrthfdx",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2024-10-07T07:50:18.000Z",
+      "updatedAt": "2024-10-07T07:50:18.000Z"
+    },
+    {
+      "id": 35,
+      "name": "sdfswf",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2024-10-07T07:50:25.000Z",
+      "updatedAt": "2024-10-07T07:50:25.000Z"
+    },
+    {
+      "id": 36,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2024-10-07T08:04:18.000Z",
+      "updatedAt": "2024-10-07T08:04:18.000Z"
+    },
+    {
+      "id": 37,
+      "name": "Testing Category",
+      "image": "https://placeimg.com/640/480/any",
+      "creationAt": "2024-10-07T09:00:37.000Z",
+      "updatedAt": "2024-10-07T09:00:37.000Z"
+    }
+  ]
